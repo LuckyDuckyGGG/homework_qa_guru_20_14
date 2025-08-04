@@ -18,6 +18,7 @@
 - **Selene** - удобная обертка над Selenium
 - **Pytest** - фреймворк для тестирования
 - **Allure** - генератор отчетов
+- **Allure TestOps** - генерация тестовой документации
 - **Jenkins** - система непрерывной интеграции
 - **Selenoid** - контейнеризованный запуск браузеров
 
@@ -26,15 +27,25 @@
 ### <img src="https://jenkins.io/images/logos/jenkins/jenkins.svg" width="20"> **Jenkins Pipeline**
 
 **Ссылка на сборку**:  
-[]()
+[**AR Mobile UI Job**](https://jenkins.autotests.cloud/job/LuckyDucky_qa_guru_python_20_14_jenkins/)
 
 **Особенности пайплайна**:
-- Запуск тестов в Selenoid
+- Запуск тестов с использованием браузера в Selenoid
 - Генерация Allure-отчёта
 - Отправка уведомлений в Telegram
+- Генерация тестовой документации в Allure TestOps
 
 ### <img src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4" width="20"> Allure Report
 **Пример отчёта**:  
+[**AR Mobile UI Report**](https://jenkins.autotests.cloud/job/LuckyDucky_qa_guru_python_20_14_jenkins/1/allure/)
+
+![Report image](https://github.com/LuckyDuckyGGG/homework_qa_guru_20_14/blob/main/files/chrome_2jH4hMGKOW.png)  
+![Report image2](https://github.com/LuckyDuckyGGG/homework_qa_guru_20_14/blob/main/files/chrome_KcahuQCFrB.png)
 
 ### <img src="https://telegram.org/img/t_logo.png" width="20"> Telegram Bot
-**Бот для уведомлений**:  
+**Пример отчета от telegram бота**:  
+![Telegram bot image](https://github.com/LuckyDuckyGGG/homework_qa_guru_20_14/blob/main/files/Telegram_GaiX5vOHET.png)
+
+### <img src="https://allure.autotests.cloud/favicon.ico" width="20"> Allure TestOps
+**Пример тестовой документации**:  
+![Allure TestOps image](https://github.com/LuckyDuckyGGG/homework_qa_guru_20_14/blob/main/files/chrome_LjAgKBEEGO.png)
