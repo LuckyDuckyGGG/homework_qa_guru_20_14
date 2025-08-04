@@ -38,7 +38,7 @@
 ### <img src="https://arm.vr-arsoft.com/faviconARM.ico" width="20"> AR Mobile  
 **Пример прохождения тестов**  
 ![Test image](https://github.com/LuckyDuckyGGG/homework_qa_guru_20_14/blob/main/files/45a9ea735ec8f2ee.png)   
-![Test video](https://luckyduckyggg.github.io/homework_qa_guru_20_14/)
+[Test video](https://luckyduckyggg.github.io/homework_qa_guru_20_14/)
 
 ### <img src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4" width="20"> Allure Report
 **Пример отчёта**:  
