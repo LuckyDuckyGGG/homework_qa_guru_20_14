@@ -35,12 +35,17 @@
 - Отправка уведомлений в Telegram
 - Генерация тестовой документации в Allure TestOps
 
+### <img src="https://arm.vr-arsoft.com/faviconARM.ico" width="20"> AR Mobile  
+**Пример прохождения тестов**  
+![Test image](https://github.com/LuckyDuckyGGG/homework_qa_guru_20_14/blob/main/files/45a9ea735ec8f2ee.png)   
+![Test video](https://github.com/LuckyDuckyGGG/homework_qa_guru_20_14/blob/main/files/index.html)
+
 ### <img src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4" width="20"> Allure Report
 **Пример отчёта**:  
 [**AR Mobile UI Report**](https://jenkins.autotests.cloud/job/LuckyDucky_qa_guru_python_20_14_jenkins/1/allure/)
 
-![Report image](https://github.com/LuckyDuckyGGG/homework_qa_guru_20_14/blob/main/files/chrome_2jH4hMGKOW.png)  
-![Report image2](https://github.com/LuckyDuckyGGG/homework_qa_guru_20_14/blob/main/files/chrome_KcahuQCFrB.png)
+![Report image](https://github.com/LuckyDuckyGGG/homework_qa_guru_20_14/blob/main/files/chrome_2swgE3tEru.png)  
+![Report image2](https://github.com/LuckyDuckyGGG/homework_qa_guru_20_14/blob/main/files/chrome_eiUxsOyLQM.png)
 
 ### <img src="https://telegram.org/img/t_logo.png" width="20"> Telegram Bot
 **Пример отчета от telegram бота**:  
@@ -48,4 +53,4 @@
 
 ### <img src="https://allure.autotests.cloud/favicon.ico" width="20"> Allure TestOps
 **Пример тестовой документации**:  
-![Allure TestOps image](https://github.com/LuckyDuckyGGG/homework_qa_guru_20_14/blob/main/files/chrome_LjAgKBEEGO.png)
+![Allure TestOps image](https://github.com/LuckyDuckyGGG/homework_qa_guru_20_14/blob/main/files/chrome_ElEmi8HIuI.png)
